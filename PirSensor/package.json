@@ -1,0 +1,10 @@
+{
+  "urls": [
+    ["PirSensor.py", "github:JosipKuci/MP-test/PirSensor/PirSensor/PirSensor.py"],
+    ["PirSensor.py", "github:JosipKuci/MP-test/Qwiic"]
+  ],
+  "deps": [
+    
+  ],
+  "version": "0.2"
+}
