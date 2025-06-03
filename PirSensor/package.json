@@ -1,9 +1,9 @@
 {
   "urls": [
-    ["PirSensor.py","github:JosipKuci/MP-test/tree/main/PirSensor/PirSensor.py"]
+    ["PirSensor.py","github:JosipKuci/MP-test/PirSensor/PirSensor.py"]
   ],
   "deps": [
-    ["Qwiic.py", "github:JosipKuci/MP-test/tree/main/Qwiic/Qwiic.py"]
+    ["Qwiic.py", "github:JosipKuci/MP-test/Qwiic/Qwiic.py"]
   ],
   "version": "0.2"
 }
